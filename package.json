@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [body-parser (v1.17.1)](https://github.com/expressjs/body-parser#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-body-parser.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-body-parser) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-body-parser.svg)](https://travis-ci.org/npmtest/node-npmtest-body-parser)",
+    "description": "#### basic test coverage for  [body-parser (v1.17.1)](https://github.com/expressjs/body-parser#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-body-parser.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-body-parser) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-body-parser.svg)](https://travis-ci.org/npmtest/node-npmtest-body-parser)",
     "devDependencies": {
         "body-parser": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
